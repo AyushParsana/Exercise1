@@ -1,4 +1,0 @@
-C:\Users\Divyesh\Desktop\1\1\bin\Debug\1.exe
-C:\Users\Divyesh\Desktop\1\1\bin\Debug\1.pdb
-C:\Users\Divyesh\Desktop\1\1\obj\x86\Debug\1.exe
-C:\Users\Divyesh\Desktop\1\1\obj\x86\Debug\1.pdb
